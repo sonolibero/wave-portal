@@ -12,7 +12,8 @@ const App = () => {
   // const contractAddress = "0xfcfb7D53a3090Cbf7cF85cb9AB28F2D8dEb72572";
   // const contractAddress = "0x3e33589b0f874E0Dd5A722e377f4Ab6e1d8FF4f9";
   // const contractAddress = "0x37B1CeeA9BCd1B2f377D7B65C091013620244139";
-  const contractAddress = "0xc1Bfa7C673269D8fE036FdCE57Da1eD7E8B88980";
+  // const contractAddress = "0xc1Bfa7C673269D8fE036FdCE57Da1eD7E8B88980";
+  const contractAddress = "0xFa401423aE7c4DE0204c0054244Ac8c38D517968";
 
   const contractABI = abi.abi;
 
